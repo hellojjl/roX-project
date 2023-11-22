@@ -1,0 +1,8 @@
+Chromosome	Genome	roX-bound
+chr2L	23513712	21
+chr2R	25286936	22
+chr3L	28110227	27
+chr3R	32079331	29
+chr4	1348131	1
+chrY	3667352	0
+chrX	23542271	842
