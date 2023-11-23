@@ -1,0 +1,6 @@
+
+Run MEME webtools to perform de novo motif discovery and motif enrichment analysis with the parameters below 
+ame --verbose 1 --oc . --scoring avg --method fisher --hit-lo-fraction 0.25 --control --shuffle-- --kmer 2 auto.fa db/FLY/flyreg.v2.meme db/FLY/OnTheFly_2014_Drosophila.meme db/FLY/fly_factor_survey.meme db/FLY/idmmpmm2009.meme db/FLY/dmmpmm2009.meme
+
+streme --verbosity 1 --oc . --dna --totallength 4000000 --time 14400 --minw 8 --maxw 15 --thresh 0.05 --align center --p auto.fa
+
