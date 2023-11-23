@@ -7,19 +7,25 @@ This is the code used for reproduce the figures for the study "A noncanonical ro
 
 **System Requirements**
 
-R 4.2.3
+Python3 (v3.9.15)
 
-ggplot2
+CrossMap (v0.6.4)
 
-ggpubr
+DeepTools (v3.5.1)
 
-ggsci
+R (v4.2.3)
 
-reshape2
+ggplot2 (v3.4.3)
 
-rtracklayer
+ggpubr (v0.6.0)
 
-DESeq2
+ggsci (v3.0.0)
+
+reshape2 (v1.4.4)
+
+rtracklayer (v1.58.0)
+
+DESeq2 (v1.38.3)
 
 **Installation and Usage**
 
