@@ -29,5 +29,5 @@ DESeq2 (v1.38.3)
 
 **Installation and Usage**
 
-Down the datasets and the code, and run the R code to produce the figures.
+Download the datasets and the code, and run the code to produce the figures.
 
